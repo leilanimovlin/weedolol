@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ziephuocee.petscan3d.com/sitemap.xml
